@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "664734019644",
+    "firebase_url": "https://greenlive-mobile-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "greenlive-mobile",
+    "storage_bucket": "greenlive-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664734019644:android:66fc61e369f9a96c039339",
+        "android_client_info": {
+          "package_name": "com.example.mp_tubes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664734019644-50nq9100p3c73gf2o87empkavtiegr53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFGBIUrUEdqW1KFr9wbqZH3F_okbxVt_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664734019644-50nq9100p3c73gf2o87empkavtiegr53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
